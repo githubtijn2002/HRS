@@ -18,6 +18,8 @@ Stuur een GET-request naar /best_match?postcode=1234AB om de top 5 locaties te o
 Disclaimer:
 Werkt alleen voor revalidatiecenters momenteel
 
+-------------------------------------------------------------
+
 🇬🇧 English
 This project is a Flask API that returns the five best matching healthcare facilities based on a user-provided Dutch postal code. The ranking is determined using a weighted score that incorporates:
 
